@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: anime-reel-bot
+    env: docker
+    plan: free
+    autoDeploy: true
